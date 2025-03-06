@@ -73,11 +73,7 @@ Si l'application ne démarre pas :
 - Maven
 - Tomcat
 
-## 📝 License
-Ce projet est sous licence [MIT](LICENSE)
-
 ## 📫 Contact
 Votre CHEMLAL ABDELHAKIM - [@votretwitter](https://twitter.com/votretwitter) - hakimchemlal0@gmail.com
 
 Lien du projet : [SpringMvcXml](https://github.com/hakimchemlal/SpringMvcXml)
-```
